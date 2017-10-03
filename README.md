@@ -1,4 +1,4 @@
-## Hey guys. Just wanted to let you know I will be posting a little calculator program on my profile sometime soon to test my knowledge of Javascript. I will put a link to it here on my homepage.
+## Hey guys. Just wanted to let you know I am learning JavaScript as we speak, so I will be able to develop some real projects soon.
 
 ## A 13-year-old developer learning how to use github.
 
